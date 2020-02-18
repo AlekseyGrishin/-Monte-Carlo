@@ -1,5 +1,4 @@
 # cuda_pi_montecarlo
-CUDA code for Monte Carlo estimation of Pi (see https://www.geeksforgeeks.org/estimating-value-pi-usingmmonte-carlo/)
 
 Using CUDA and GPGPU computing to caculate estimation of Pi using Monte Carlo with 100,000,000 random points.
 
